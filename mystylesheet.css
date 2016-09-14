@@ -1,0 +1,50 @@
+/*
+Author: Robby Helms
+The Iron Yard 9/12/2016
+Ice Cream Shop
+*/
+body {
+  background-color: beige;
+}
+
+#page_head {
+  color: purple;
+  font-family: fantasy;
+}
+
+#history {
+  font-family: cursive;
+}
+
+li {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#flavor_table {
+  border-collapse: collapse;
+  border: 2px solid black;
+  margin: auto;
+  width: 75%;
+  text-align: center;
+}
+
+.labels {
+  background-color: lightblue;
+}
+
+.row:hover {
+  border: 2px solid blue;
+  background-color: pink;
+}
+
+.odd {
+  background-color: lightgray;
+}
+
+.even {
+  background-color: white;
+}
+
+.row:focus {
+  background-color: pink;
+}
